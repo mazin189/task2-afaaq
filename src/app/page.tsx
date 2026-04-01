@@ -6,9 +6,9 @@ export default function page() {
   return (
     <div>
 
-    {/* <Navbar /> */}
-    {/* <Home /> */}
-    {/* <Footer /> */}
+    <Navbar />
+    <Home />
+    <Footer />
     
     </div>
   );
