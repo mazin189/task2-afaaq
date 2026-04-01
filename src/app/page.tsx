@@ -8,7 +8,7 @@ export default function page() {
 
     <Navbar />
     {/* <Home /> */}
-    {/* <Footer /> */}
+    <Footer />
     
     </div>
   );
